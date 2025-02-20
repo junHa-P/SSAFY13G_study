@@ -1,6 +1,6 @@
 # SSAFY13G_study #
 ----
-💻 ## Computer Science ##
+💻  Computer Science 
 ----
 📢 ### Rule ###
 ----
