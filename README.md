@@ -1,6 +1,9 @@
-# SSAFY13G_study
-💻 Computer Science
-📢 Rule
+# SSAFY13G_study #
+----
+💻 ## Computer Science ##
+----
+📢 ### Rule ###
+----
 요일 : 목
 방식
 목요일까지 본인이 이해하고 외운 cs지식을 업로드
