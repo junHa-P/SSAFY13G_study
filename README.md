@@ -1,8 +1,8 @@
 # SSAFY13G_study #
 ----
-💻  Computer Science 
+💻 Computer Science 
 ----
-📢 ### Rule ###
+📢 Rule 
 ----
 요일 : 목
 방식
